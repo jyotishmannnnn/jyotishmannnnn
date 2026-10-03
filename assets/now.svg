@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="306" viewBox="0 0 1200 306" role="img" aria-label="~/now.log: [building] gloves that record how human hands actually touch things; [tuning] taxel grids until the noise floor stops lying to me; [soldering] more ESP32-S3s than is probably healthy; [learning] what a robot needs to feel before it can be trusted with an egg; [open to] tactile datasets · haptics · humanoids · anything with a sense of touch">
+<style>@keyframes r0{0%,5.52%{transform:translateX(0)}12.41%,95%{transform:translateX(1120px)}100%{transform:translateX(0)}}.r0{animation:r0 14.5s linear infinite}@keyframes r1{0%,14.48%{transform:translateX(0)}21.38%,95%{transform:translateX(1120px)}100%{transform:translateX(0)}}.r1{animation:r1 14.5s linear infinite}@keyframes r2{0%,23.45%{transform:translateX(0)}30.34%,95%{transform:translateX(1120px)}100%{transform:translateX(0)}}.r2{animation:r2 14.5s linear infinite}@keyframes r3{0%,32.41%{transform:translateX(0)}39.31%,95%{transform:translateX(1120px)}100%{transform:translateX(0)}}.r3{animation:r3 14.5s linear infinite}@keyframes r4{0%,41.38%{transform:translateX(0)}48.28%,95%{transform:translateX(1120px)}100%{transform:translateX(0)}}.r4{animation:r4 14.5s linear infinite}.m{font:400 17px "JetBrains Mono",Consolas,"Courier New",monospace}.cur{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect width="1200" height="306" rx="14" fill="#0a0a0b"/>
+<rect x=".5" y=".5" width="1199" height="305" rx="14" fill="none" stroke="#e9e4d8" stroke-opacity=".14"/>
+<circle cx="30" cy="26" r="6" fill="#ff4d2e"/><circle cx="50" cy="26" r="6" fill="#8d887c" fill-opacity=".5"/><circle cx="70" cy="26" r="6" fill="#8d887c" fill-opacity=".5"/>
+<text x="600" y="31" text-anchor="middle" class="m" font-size="13" fill="#8d887c">~/now.log</text>
+<line x1="0" y1="46" x2="1200" y2="46" stroke="#e9e4d8" stroke-opacity=".1"/>
+<text x="48" y="66" class="m" fill="#8d887c">$ tail -f ~/now.log</text>
+<text x="48" y="96" class="m"><tspan fill="#ff4d2e">[building]</tspan><tspan x="190" fill="#e9e4d8" fill-opacity=".85">gloves that record how human hands actually touch things</tspan></text>
+<rect x="40" y="72" width="1120" height="34" fill="#0a0a0b" class="r0"/>
+<text x="48" y="130" class="m"><tspan fill="#ff4d2e">[tuning]</tspan><tspan x="190" fill="#e9e4d8" fill-opacity=".85">taxel grids until the noise floor stops lying to me</tspan></text>
+<rect x="40" y="106" width="1120" height="34" fill="#0a0a0b" class="r1"/>
+<text x="48" y="164" class="m"><tspan fill="#ff4d2e">[soldering]</tspan><tspan x="190" fill="#e9e4d8" fill-opacity=".85">more ESP32-S3s than is probably healthy</tspan></text>
+<rect x="40" y="140" width="1120" height="34" fill="#0a0a0b" class="r2"/>
+<text x="48" y="198" class="m"><tspan fill="#ff4d2e">[learning]</tspan><tspan x="190" fill="#e9e4d8" fill-opacity=".85">what a robot needs to feel before it can be trusted with an egg</tspan></text>
+<rect x="40" y="174" width="1120" height="34" fill="#0a0a0b" class="r3"/>
+<text x="48" y="232" class="m"><tspan fill="#ff4d2e">[open to]</tspan><tspan x="190" fill="#e9e4d8" fill-opacity=".85">tactile datasets · haptics · humanoids · anything with a sense of touch</tspan></text>
+<rect x="40" y="208" width="1120" height="34" fill="#0a0a0b" class="r4"/>
+<rect x="48" y="248" width="10" height="20" fill="#ff4d2e" class="cur"/>
+</svg>

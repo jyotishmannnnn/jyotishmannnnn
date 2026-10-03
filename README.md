@@ -11,28 +11,29 @@
   <a href="mailto:jyotishmandas.official@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0b?style=flat-square&logo=gmail&logoColor=e9e4d8" alt="Email"></a>
 </p>
 
-Robots can see and hear. They still can't feel. At **[Sentrix Robotics](https://www.sentrixrobotics.com/)** we build tactile gloves, sensing skins and the data layer robots learn touch from.
+Hi, I'm Jyotishman. I grew up in Guwahati on sci-fi, AI suits and wormholes, and at seven I decided I was going to build the things I saw on screen. I'm still at it, just with better soldering. These days I'm in Chennai, running [Sentrix Robotics](https://www.sentrixrobotics.com/) and trying to give robots something they've never had: a sense of touch.
 
-```yaml
-based_in:   Chennai, from Guwahati, Assam
-building:   Sentrix Robotics · IIMA Ventures portfolio · NVIDIA Inception · DPIIT recognised
-studying:   B.Tech Mechatronics & Automation, VIT Chennai
-led:        Team Genesis, VIT Chennai's first humanoid robotics team (55 members)
-patents:    UniHub (published) + 6 filed
-```
+<img src="./assets/divider.svg" width="100%" alt="">
 
-## Builds
+### How I got here
 
-| Project | |
-|---|---|
-| [**SIH Haptic Prosthetic**](https://github.com/jyotishmannnnn/SIH-Prosthetic-Haptic-Feedback) | A prosthetic hand that feels: eFlesh tactile patch, dual ESP32-S3, 6-channel vibrotactile feedback |
-| [**NeuroHand**](https://github.com/jyotishmannnnn/NeuroHand-EEG-Based-Prosthetic-Control-System) | Real-time EEG control of a tendon-driven prosthetic hand |
-| [**GestureLIO**](https://github.com/jyotishmannnnn/GestureLIO) | Gesture recognition from a Unitree L2 4D LiDAR. No ML, no GPU, no ROS |
-| [**ReFold**](https://github.com/jyotishmannnnn/ReFlow) | Self-improving protein-repair agent on Gemma 4, ESM-2 and ESMFold. 🏆 Best Social Impact, Build with Gemma |
-| [**SyncRoom**](https://github.com/jyotishmannnnn/SyncRoom) | WebRTC watch parties and video calls, live at [havnn.in](https://havnn.in) |
-| [**ContactHarvester**](https://github.com/jyotishmannnnn/ContactHarvester) | Open-source lead discovery: crawls, extracts, validates and ranks contacts |
+<img src="./assets/boot.svg" width="100%" alt="boot.log: age 7, watched Iron Man in Guwahati. 2015, first robotics workshop. 2017, national bronze at IIT Guwahati. 2023, world robotics championship and a first company. 2024, moved to Chennai for VIT. 2025, co-founded Sentrix, burned out, came back sharper. 2026, teaching robots to feel.">
 
-## Toolbox
+### Off the bench
+
+<img src="./assets/bench.svg" width="100%" alt="Off the bench: 100 m in 10.89 s, #1 Dyrroth in India on Mobile Legends, chaired the UNSC and ICJ at MUN, started the Assam Literary Association at VIT, ex-pentester, Best Actor.">
+
+### Right now
+
+<img src="./assets/now.svg" width="100%" alt="now.log: building gloves that record how hands touch things, tuning taxel grids, soldering ESP32-S3s, learning what a robot needs to feel, open to tactile, haptics and humanoid collaborations.">
+
+If you're working on robots that need to feel, [say hi](mailto:jyotishmandas.official@gmail.com).
+
+<img src="./assets/divider.svg" width="100%" alt="">
+
+**A few things I've built:** [Haptic Prosthetic](https://github.com/jyotishmannnnn/SIH-Prosthetic-Haptic-Feedback) · [NeuroHand](https://github.com/jyotishmannnnn/NeuroHand-EEG-Based-Prosthetic-Control-System) · [GestureLIO](https://github.com/jyotishmannnnn/GestureLIO) · [ReFold](https://github.com/jyotishmannnnn/ReFlow) · [SyncRoom](https://github.com/jyotishmannnnn/SyncRoom) · [ContactHarvester](https://github.com/jyotishmannnnn/ContactHarvester)
+
+**What I reach for:**
 
 <p>
   <img src="https://img.shields.io/badge/Python-141312?style=flat-square&logo=python&logoColor=e9e4d8" alt="Python">
@@ -48,22 +49,6 @@ patents:    UniHub (published) + 6 filed
   <img src="https://img.shields.io/badge/Unity_XR-141312?style=flat-square&logo=unity&logoColor=e9e4d8" alt="Unity">
   <img src="https://img.shields.io/badge/WebRTC-141312?style=flat-square&logo=webrtc&logoColor=e9e4d8" alt="WebRTC">
 </p>
-
-`tactile sensing` · `haptics` · `sensor fusion` · `embedded systems` · `humanoids` · `XR interfaces` · `computer vision`
-
-## Now
-
-```console
-$ tail -f ~/now.log
-[building]  gloves that record how human hands actually touch things
-[tuning]    taxel grids until the noise floor stops lying to me
-[soldering] more ESP32-S3s than is probably healthy
-[learning]  what a robot needs to feel before it can be trusted with an egg
-[open to]   tactile datasets · haptics · humanoids · anything with a sense of touch
-▌
-```
-
-If you're working on robots that need to feel, [say hi](mailto:jyotishmandas.official@gmail.com).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jyotishmannnnn/jyotishmannnnn/output/snake-dark.svg">

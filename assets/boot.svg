@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="374" viewBox="0 0 1200 374" role="img" aria-label="~/boot.log: [age 7] Watched Iron Man in Guwahati. Locked in on exoskeletons and robots.; [2015] First robotics workshop. First real hardware in my hands. No going back.; [2017] National bronze at IIT Guwahati. The first time a judge said yes.; [2023] Led a team at a world robotics championship. Started my first company.; [2024] Left Assam for Chennai. Mechatronics at VIT.; [2025] Co-founded Sentrix. Burned out, restructured, came back sharper.; [2026] Teaching robots to feel.">
+<style>@keyframes r0{0%,4.68%{transform:translateX(0)}10.53%,95%{transform:translateX(1120px)}100%{transform:translateX(0)}}.r0{animation:r0 17.1s linear infinite}@keyframes r1{0%,12.28%{transform:translateX(0)}18.13%,95%{transform:translateX(1120px)}100%{transform:translateX(0)}}.r1{animation:r1 17.1s linear infinite}@keyframes r2{0%,19.88%{transform:translateX(0)}25.73%,95%{transform:translateX(1120px)}100%{transform:translateX(0)}}.r2{animation:r2 17.1s linear infinite}@keyframes r3{0%,27.49%{transform:translateX(0)}33.33%,95%{transform:translateX(1120px)}100%{transform:translateX(0)}}.r3{animation:r3 17.1s linear infinite}@keyframes r4{0%,35.09%{transform:translateX(0)}40.94%,95%{transform:translateX(1120px)}100%{transform:translateX(0)}}.r4{animation:r4 17.1s linear infinite}@keyframes r5{0%,42.69%{transform:translateX(0)}48.54%,95%{transform:translateX(1120px)}100%{transform:translateX(0)}}.r5{animation:r5 17.1s linear infinite}@keyframes r6{0%,50.29%{transform:translateX(0)}56.14%,95%{transform:translateX(1120px)}100%{transform:translateX(0)}}.r6{animation:r6 17.1s linear infinite}.m{font:400 17px "JetBrains Mono",Consolas,"Courier New",monospace}.cur{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect width="1200" height="374" rx="14" fill="#0a0a0b"/>
+<rect x=".5" y=".5" width="1199" height="373" rx="14" fill="none" stroke="#e9e4d8" stroke-opacity=".14"/>
+<circle cx="30" cy="26" r="6" fill="#ff4d2e"/><circle cx="50" cy="26" r="6" fill="#8d887c" fill-opacity=".5"/><circle cx="70" cy="26" r="6" fill="#8d887c" fill-opacity=".5"/>
+<text x="600" y="31" text-anchor="middle" class="m" font-size="13" fill="#8d887c">~/boot.log</text>
+<line x1="0" y1="46" x2="1200" y2="46" stroke="#e9e4d8" stroke-opacity=".1"/>
+<text x="48" y="66" class="m" fill="#8d887c">$ cat ~/boot.log</text>
+<text x="48" y="96" class="m"><tspan fill="#ff4d2e">[age 7]</tspan><tspan x="150" fill="#e9e4d8" fill-opacity=".85">Watched Iron Man in Guwahati. Locked in on exoskeletons and robots.</tspan></text>
+<rect x="40" y="72" width="1120" height="34" fill="#0a0a0b" class="r0"/>
+<text x="48" y="130" class="m"><tspan fill="#ff4d2e">[2015]</tspan><tspan x="150" fill="#e9e4d8" fill-opacity=".85">First robotics workshop. First real hardware in my hands. No going back.</tspan></text>
+<rect x="40" y="106" width="1120" height="34" fill="#0a0a0b" class="r1"/>
+<text x="48" y="164" class="m"><tspan fill="#ff4d2e">[2017]</tspan><tspan x="150" fill="#e9e4d8" fill-opacity=".85">National bronze at IIT Guwahati. The first time a judge said yes.</tspan></text>
+<rect x="40" y="140" width="1120" height="34" fill="#0a0a0b" class="r2"/>
+<text x="48" y="198" class="m"><tspan fill="#ff4d2e">[2023]</tspan><tspan x="150" fill="#e9e4d8" fill-opacity=".85">Led a team at a world robotics championship. Started my first company.</tspan></text>
+<rect x="40" y="174" width="1120" height="34" fill="#0a0a0b" class="r3"/>
+<text x="48" y="232" class="m"><tspan fill="#ff4d2e">[2024]</tspan><tspan x="150" fill="#e9e4d8" fill-opacity=".85">Left Assam for Chennai. Mechatronics at VIT.</tspan></text>
+<rect x="40" y="208" width="1120" height="34" fill="#0a0a0b" class="r4"/>
+<text x="48" y="266" class="m"><tspan fill="#ff4d2e">[2025]</tspan><tspan x="150" fill="#e9e4d8" fill-opacity=".85">Co-founded Sentrix. Burned out, restructured, came back sharper.</tspan></text>
+<rect x="40" y="242" width="1120" height="34" fill="#0a0a0b" class="r5"/>
+<text x="48" y="300" class="m"><tspan fill="#ff4d2e">[2026]</tspan><tspan x="150" fill="#e9e4d8" >Teaching robots to feel.</tspan><tspan fill="#ff4d2e">  ● running</tspan></text>
+<rect x="40" y="276" width="1120" height="34" fill="#0a0a0b" class="r6"/>
+<rect x="48" y="316" width="10" height="20" fill="#ff4d2e" class="cur"/>
+</svg>
