@@ -21,28 +21,7 @@ led:        Team Genesis, VIT Chennai's first humanoid robotics team (55 members
 patents:    UniHub (published) + 6 filed
 ```
 
-## The Sentrix touch-data stack
-
-Every repo below is one stage of a single pipeline, from raw sensor to training-ready dataset.
-
-```
-  glove / skin ──▶ Capture ──▶ Sync ──▶ DataEngine ──▶ Viz
-                      ▲                     ▲
-          Sim ────────┘      Contracts ─────┴── shared schemas and wire formats
-```
-
-| Stage | Repo | What it does |
-|---|---|---|
-| 00 | [**SentrixEcosystem**](https://github.com/jyotishmannnnn/SentrixEcosystem) | Architecture, workflows and docs hub for the whole platform |
-| 01 | [**SentrixCapture**](https://github.com/jyotishmannnnn/SentrixCapture) | Hardware capture: descriptor-driven acquisition, USB transport, session recording |
-| 02 | [**SentrixSync**](https://github.com/jyotishmannnnn/SentrixSync) | Modality-neutral, event-based sync for multimodal sensor streams |
-| 03 | [**SentrixDataEngine**](https://github.com/jyotishmannnnn/SentrixDataEngine) | Dataset materialization, validation, packaging and export |
-| 04 | [**SentrixViz**](https://github.com/jyotishmannnnn/SentrixViz) | Visualization and analysis for tactile datasets and derived signals |
-| ++ | [**SentrixContracts**](https://github.com/jyotishmannnnn/SentrixContracts) | Canonical schemas, descriptors and wire formats shared by every stage |
-| ++ | [**SentrixSim**](https://github.com/jyotishmannnnn/SentrixSim) | Tactile data simulator |
-| ++ | [**Tactile-Glove-Benchmark**](https://github.com/jyotishmannnnn/Tactile-Glove-Benchmark) | Open benchmark for tactile sensing, finger proprioception and dataset quality |
-
-## Other builds
+## Builds
 
 | Project | |
 |---|---|
