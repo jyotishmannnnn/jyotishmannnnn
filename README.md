@@ -51,13 +51,19 @@ patents:    UniHub (published) + 6 filed
 
 `tactile sensing` · `haptics` · `sensor fusion` · `embedded systems` · `humanoids` · `XR interfaces` · `computer vision`
 
-## Recognition
+## Now
 
-- **IIMA Ventures** portfolio company, and AI Summer Resident 2026 (1 of 43 founders from 32,000+ applicants)
-- **NVIDIA Inception** member · **CrftHQ** Fellow 2025
-- **Eureka! IIT Bombay**: zonalist (Sentrix, 2025), Top 600 in Asia (OptifiX, 2024)
-- **DevsHouse 2025**: Top 7 of 1,200+ (MLH x GDG)
-- **Techtron, IIT Guwahati**: National Bronze in robotics
+```console
+$ tail -f ~/now.log
+[building]  gloves that record how human hands actually touch things
+[tuning]    taxel grids until the noise floor stops lying to me
+[soldering] more ESP32-S3s than is probably healthy
+[learning]  what a robot needs to feel before it can be trusted with an egg
+[open to]   tactile datasets · haptics · humanoids · anything with a sense of touch
+▌
+```
+
+If you're working on robots that need to feel, [say hi](mailto:jyotishmandas.official@gmail.com).
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jyotishmannnnn/jyotishmannnnn/output/snake-dark.svg">
