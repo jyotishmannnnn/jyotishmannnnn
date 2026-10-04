@@ -21,7 +21,7 @@ Hi, I'm Jyotishman. I grew up in Guwahati on sci-fi, AI suits and wormholes, and
 
 ### Off the bench
 
-<img src="./assets/bench.svg" width="100%" alt="Off the bench: 100 m in 10.89 s, #1 Dyrroth in India on Mobile Legends, chaired the UNSC and ICJ at MUN, started the Assam Literary Association at VIT, ex-pentester, Best Actor.">
+<img src="./assets/bench.svg" width="100%" alt="Off the bench: 100 m in 10.89 s, #1 Dyrroth in India on Mobile Legends, chaired the UNSC and ICJ at MUN, started the Assam Literary Association at VIT, ex-pentester, raised on sci-fi and wormholes.">
 
 ### Right now
 
